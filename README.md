@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning **Arduino programming.**
 
-- 👩🏼‍💻 All of my current projects are available at [https://www.frontendpenguin.com/](https://www.frontendpenguin.com/)
+- 👩🏼‍💻 All of my current projects are available at [https://www.zoeangelis.de/](https://www.zoeangelis.de/)
 
 - 📝 I regularly write articles on [https://zoeangelis.com/](https://zoeangelis.com/)
 
 - 💬 Ask me about **frontend development.**
 
-- 📫 How to reach me **contact@frontendpenguin.com**
+- 📫 How to reach me **contact@zoeangelis.com**
 
 - ⚡ Fun fact **I won a Lego building contest when I was 8 years old.**
 <br>
